@@ -1,0 +1,49 @@
+1. Google AI
+	Problem - Pathologistis disagree on the diagnosis in over 50% of cases of breast and
+		prostate cancer.
+
+	DL sol - Google AI worked on a large data set to develop a DL algorithm that can properly
+		identify metastasis with 89% accuracy compared to 73% for a trained pathologist.
+
+	Result - Not to replace Pathologist but it helped them to diagnos their patient better.
+
+2. Spotify
+	Problem - Recommendation of songs.
+
+	DL sol - Applied DL to learn listing pattern of users with similar music taste to recommend
+		songs from overs two billion song playlist.
+
+	Result - Increased active users from 75 to 100 million.
+
+3. Digital domain
+	Problem - Real time visuals of how the VFX will look on screen.
+
+	DL sol - Used DL in the making of Avengers by analysing the facial expression of characters
+		to show the final result at the real time shooting,
+		instead of waiting for weeks to get the result.
+
+	Result - Public opinion praised how natural the VFX looked, and movie earned around
+		3 billion $ which is highest ever.
+
+4. Ayasdi
+	Problem - To increase the efficiency in preventing money laundring.
+
+	DL sol - Integarted DL to reduce investigation volume and explore new risks.
+
+	Result - Investigation volumn was reduced by 20%, and it explored new risk segments.
+
+5. Deep instincts
+	Problem - Increasing cyber security.
+
+	DL sol - Deep instincts's DL powered security platform were installed for one company present
+		in fortune 500.
+
+	Result - In just one week 12 infedcted endpoints were found, and with time algorithm found
+		that 10% of their devices were alreay infected, by only using 1% cpu power it successfully
+		prevented 99% incoming malware.
+
+6. Zest finance
+	Problem - Predicting whether customer will pay loan on time or default.
+
+	DL sol - Zest finance provides dl algo to get the risk of defaulting of customer by
+		analysing their credit score.

@@ -1,0 +1,52 @@
+1. SKANSKA constructions
+	Problem - Their workers walk an average 6 miles per day to get the right
+		meterial, tool, and equipment to the right place at the right time.
+
+	CV_sol - By analysing workers movement through CV and by tracking their acitivity 
+		they optimised the construction process by providing them tool, and equiment
+		where they need it.
+
+	Result - Each worker's movement reduced by 2 miles/day, and worker's productivity 
+		increased by 1 hr/day.
+
+2. Tesla cars
+	Problem - Automatic driving cars.
+
+	CV_sol - Multiple scanners and 8 cameras were added to received info and track data
+		like other cars, pedestrians, roads, road poles.
+
+	Result - From 2016 when they added this features in Tesla cars, their reavnue increased
+		by 450% in following 3 years.
+
+3. Ebay 
+	Problem - Purchasing any item by just looking at it.
+
+	CV_sol - Scanning the item and search through entire inventory of ebay to provide item.
+
+	Result - In 2017 when feature came 50% of sales happened through mobile, while in 2016
+		it was around 40%.
+
+4. Ai cure
+	Problem - Medical adherence ie People don't take medicines as prescribed.
+
+	CV_sol - Observing and tracking people whether they take medicine as prescribed at
+		right time and in right quantity.
+
+	Result - 95% increase in correct medical adherence.
+
+5. Roaf
+	Problem - Waste sorting.
+
+	CV_sol - Installed cv to sort whether waste can be recycled or not.
+
+	Result - 97% accuracy, replace 12 hr shift of manual work.
+
+6. Cortexica
+	Problem - Industry workplace safety, it is observed that most of the workplace injury
+		has been occured because of human error and because workers were not wearing
+		safety equipment.
+
+	CV_sol - Tracking whether protectinve gears are used or not in workplace and notify them.
+
+	Result - Prevention of 60,000 accidents which could have happened if there was no cv sol,
+		and 122 millions euros savings/year in UK alone.
