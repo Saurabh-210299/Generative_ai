@@ -1,0 +1,15 @@
+Benefits
+1. RPA systems works 24/7, 365 days per year.
+2. These systems nevers takes leaves.
+3. Offers much more accuracy.
+4. Offers much more speed to execute a task.
+5. These systems have inherent in-built tracking of metrics.
+6. These systems are almost infinitely scalable.
+7. These systems free up humans to focus on more creative tasks and increase human morale.
+8. Massive cost savings.
+
+Applications
+1. Australian Energy - Saved 2.3 million dollars by automating their billing process, reduced error rates by 99%.
+2. Food and Beverage company used RPA in invoice generation and financial report craetiong to free up to 25 humans.
+3. Logistic company used RPA in billing and other process, which resulted in 25% reduction in effort and 25% reduction in turnaround time.
+4. Indian manufacturing company used RPA in invoice processing, resulted in 85% effort reduction and 10 times better turnaround time.

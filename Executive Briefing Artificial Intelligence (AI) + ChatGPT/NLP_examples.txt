@@ -1,0 +1,27 @@
+1. Rotterdam Airport
+	Problem Statement - Document Analysis
+	Sol - A logistic company in Rotterdam incorporated a NLP program to parses document and extract info related to product at 97% accuracy.
+	Result - Reduced time spend on processing docs by 98%, reduced shipping error by 6%, saved 4 million dollors per year.
+
+2. Autodesk
+	Problem statement - Chatbot for customer support.
+	Sol - Implemented NLP chatbots to resolve around 100,000 customer queries per month.
+	Result - Response time improved by 99%, from 34 hours to 5.4 minutes, Replaced human customer support staff which costed around 15-200$ per query,
+		where as AVA(chatbot) cost less than 1$ per query.
+
+3. Boston consulting group
+	Problem Statement - Gathers survey data from more than 50 countries to analyse survey result.
+	Sol - Implemented NLP to process survey result.
+	Result - Reduced time necessary to process the result by 99.7%, what used to take 4 people a month now takes 2 people just 2 hours.
+
+4. JP morgan chase
+	Problem statement - Company required army of lawyers and loan officers to review legal documents amounting 360,000 hours of work annually.
+	Sol - Implement NLP(COIN) to does the same.
+	Result - It does the same work in seconds, and prevent clerical errors, and help in huge savings.
+
+5. Youtube
+	Problem statement - Youtube faces disturbing, violent, and illegal content that needs to be prevented from spreading.
+	Sol - Youtube started using NLP to analyse potentialy violent and extremist content.
+	Result - In first 6 months it reviewed and flagged content that would have taken 180,000 people working 40hrs/week to assess, saved million of 
+		dollors and saved their reputation, and more importantly spared people from viewing horrific content.
+

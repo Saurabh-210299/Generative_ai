@@ -1,0 +1,28 @@
+1. Google AlphaGo
+	Problem statement - Game similar to chess learned by google AlphaGo program by reinforcement learnign.
+
+	Result - Won 60 games out of 60 against top players of the world.
+
+2. Decision Service
+	Problem statement - Implemented RL to improve their advertisement click through.
+
+	Result - Using RL click-thorough rate improved by 30%, and revenue increased by 18%.
+
+3. Trendyol
+	Problem statement - RL for email advertising.
+
+	Result - 30% lift in click-through rates, 60% lift in response rates, 130% lift in 
+		conversion rates.
+
+4. Alibaba
+	Problem statement - Developed a system to quantify how likely a customer is to click
+			on a particular ad.
+
+	Resutl - Roi increased by 240% without increasing advertisement budget.
+
+5. Fanuc/ Tesla
+	Problem statement - Fanuc develops robots that qucikly learn to perform new tasks, ex-
+			sorting or delivering products. Tesla uses 160 of these robots in
+			manufacturing units.
+
+	Result - Robots having 90% of accuracy on new tasks learing by RL overnight.
