@@ -1,0 +1,60 @@
+LLM - Large language model
+Two types - 1. Base models 2. Instruction based models
+
+
+
+
+Guidelines - 1. Be clear and specific
+	     2. Give model time to think
+	     3. Give enough info to model.
+	     4. shot prompt (Provide some example to model and then ask for question).
+	     5. Ask for structured output.
+
+Model limitation - Hallucinations (If you ask about the product desc of imagination product then also it gives the answer which does not even exist).
+
+
+
+
+
+Iterative - How to iteratively analyse and refine our prompt model application.
+Stages - Idea -> Implement code -> exprimental result -> error analysis.
+Output modifications - Limit the number of words, sentences, or characters in response.
+		       Ask the prompt to focus on the aspect that are relevant for the intended audience.
+
+
+
+
+Summerize text - Industrial application 
+We can summerize text with a focus on specific topic.
+Sometimes the summeries do not focus on topic relevant to business use case, in that case use word 'extract' instead of 'summerize' for better result.
+
+
+
+
+
+Inferring - Infer sentiment and topic from product reviews and news articles.
+Can ask for result of sentiment analysis in one word like (positive/negative).
+Ask for emotion analysis and create a list of it.
+Is the writer of the review expressing anger.
+Can infer topic from a long text.
+
+
+
+
+
+
+Tranforming - How to use Large Language Models for text transformation tasks such as language translation, spelling and grammar checking, tone adjustment, and format conversion.
+Translation in both formal and informal form.
+Universal translator for it company.
+Tone transformation.
+Output format conversion( json -> html)
+Spell check and grammar check.
+
+
+
+
+
+Expanding - Generate larger text from small text like create mail from response.
+Can be used to generate automatic email reply generator.
+Create as per sentiment of review. (Create thank you email if customer response is positive, if response is negative then generate apologies email).
+Let the customer alos know that email is AI generated.
