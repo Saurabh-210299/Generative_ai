@@ -1,1 +1,4 @@
-sample file.
+L1 Language Models, the Chat Format and Tokens -
+Large lang models are built using suprevised learning repeatedly to predict the next word.
+Base LLM - Predicts next word based on text training data.
+Instruction base LLM - Predicts next word based on text training data by following the given instruction.
