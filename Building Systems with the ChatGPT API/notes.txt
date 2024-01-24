@@ -2,3 +2,14 @@ L1 Language Models, the Chat Format and Tokens -
 Large lang models are built using suprevised learning repeatedly to predict the next word.
 Base LLM - Predicts next word based on text training data.
 Instruction base LLM - Predicts next word based on text training data by following the given instruction.
+
+Steps to go from base LLM to instruction LLM - 
+  1. Train base LLM with lot of data.
+  2. further train model by doing fine tune on examples where output follows an input instruction.
+  3. Obtain human-ratings on model output.
+  4. Tune LLM to increase probability that it generates highly rated output using RLHF(Reinforcement learning from human feedback).
+
+Token - Basically LLM breaks the input string in tokens, for english token length is approx 4 characters or 3/4 of word.
+Example- if we ask to reverse the word lollipop, it gives the answer pillipol.
+         to correct it we need to make it clear ie. reverse the word l-o-l-l-i-p-o-p then the output will be p-o-p-i-l-l-o-l.
+Chatgpt 3.5 has the limit of 4000 token processing inlcuding context and output completion.
